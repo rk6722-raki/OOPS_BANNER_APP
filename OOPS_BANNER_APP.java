@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 5.0
  * Use Case 5: Display "OOPS" banner using inline array initialization with String.join()
  */
