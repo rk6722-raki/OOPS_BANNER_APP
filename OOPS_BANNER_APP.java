@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 2.0
  * Use Case 2: Display "OOPS" in a 7-line ASCII art banner using * and spaces
  */
