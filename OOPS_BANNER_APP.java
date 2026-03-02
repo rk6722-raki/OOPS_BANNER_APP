@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 8.0
  * Use Case 8: Display "OOPS" banner using HashMap for efficient character pattern lookup
  */
