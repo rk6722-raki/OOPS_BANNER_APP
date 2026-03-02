@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 7.0
  * Use Case 7: Display "OOPS" banner using CharacterPattern static inner class
  */
