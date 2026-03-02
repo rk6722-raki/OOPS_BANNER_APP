@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 3.0
  * Use Case 3: Display "OOPS" banner using String.join() for memory efficiency
  */
