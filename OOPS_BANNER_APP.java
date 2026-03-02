@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 6.0
  * Use Case 6: Display "OOPS" banner using static helper methods for modularity
  */
