@@ -1,5 +1,5 @@
 /**
- * @author Developer
+ * @author Rakesh
  * @version 4.0
  * Use Case 4: Display "OOPS" banner using String array and enhanced for-loop
  */
